@@ -24,7 +24,7 @@
 <a href="https://wa.me/6283825121214"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
-<a href="https://github.com/neko-lovers-id"><img src="https://img.shields.io/badge/Github Neko-black?style=for-the-badge&logo=Github&logoColor=8A2BE2&link=https://github.com/neko-lovers-id" /></a>
+<a href="https://github.com/neko-lovers-id"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=8A2BE2&link=https://github.com/neko-lovers-id" /></a>
 
 
 
