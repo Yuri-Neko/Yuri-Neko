@@ -7,13 +7,13 @@
 
 <p align="center">
 
-- 👼 My name is Neeechan
+- 👼 My name is KeiYoshiro
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 15 years old 
 
 - 🔭 I am Not programmer
  
-- 😎 I am like Wibu
+- 😎 I Wibu :v
 </p>
 
 ------
