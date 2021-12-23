@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**neko-lovers-id/neko-lovers-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👼 My name is Zero YT7
+
+- 🗣️ I am 18 years old 
+
+- 🔭 I am Not programmer
+ 
+- 😎 I am like Wibu
+</p>
+
+------
+
+## ```FOLLOW ALL SOSIALMEDIA ME```
+<p align="center">
+<a href="https://instagram.com/ruka.nime7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6283825121214"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/Nekonepuu"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoNepuu" /><br>
+<a href="https://tiktok.com/@hiro_0173"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
+</p>h1 align="center">NekoYuri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+</p>
+
+
+
