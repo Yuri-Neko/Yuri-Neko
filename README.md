@@ -31,6 +31,8 @@
 
 ![github card](https://github-readme-stats.vercel.app/api?username=neko-lovers-id&show_icons=true&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neko-lovers-id&show_icons=true&locale=en&layout=compact" alt="neko-lovers-id" /></p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neko-lovers-id&theme=monokai)
 
 
