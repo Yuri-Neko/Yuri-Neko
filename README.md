@@ -1,6 +1,6 @@
 ### Hi Watashi no namae Hashiba Kyouka Yoroshiku nee
 
-<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/28/d1/20/28d1202cd6fd14ab26d60ed76be39778.gif" width="40px" alt=""><br></h1> 
+<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
 <img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
