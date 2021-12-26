@@ -27,13 +27,6 @@
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
 <a href="https://github.com/neko-lovers-id"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/neko-lovers-id" /></a>
 
-### Spotify Music
-
-<p align="center">
-  <a href="https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-
 ### Github Stats 
 
 ![github card](https://github-readme-stats.vercel.app/api?username=neko-lovers-id&show_icons=true&theme=radical)
