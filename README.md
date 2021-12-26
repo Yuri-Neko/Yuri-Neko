@@ -18,12 +18,6 @@
 
 ------
 
-### Spotify Music
-
-<p align="center">
-  <a href="https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
@@ -32,6 +26,13 @@
 <a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
 <a href="https://github.com/neko-lovers-id"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/neko-lovers-id" /></a>
+
+### Spotify Music
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 
 ### Github Stats 
 
