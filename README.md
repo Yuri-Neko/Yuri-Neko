@@ -26,6 +26,11 @@
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
 <a href="https://github.com/neko-lovers-id"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/neko-lovers-id" /></a>
 
+### Github Stats 
+
+![github card](https://github-readme-stats.vercel.app/api?username=neko-lovers-id&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neko-lovers-id&theme=monokai)
 
 
 
