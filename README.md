@@ -33,9 +33,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="Yuri-Neko" /></p>
 
-![github card](https://github-readme-stats.vercel.app/api?username=neko-lovers-id&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neko-lovers-id&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
 
 
 
