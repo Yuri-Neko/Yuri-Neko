@@ -6,7 +6,18 @@
 </p>
 <img src="https://c.tenor.com/7pvsrmazRWcAAAAi/neko-mafumafu.gif" />
 </p>
-
+ 
+ 
+<p align="center">
+    <a href="https://yuri-neko.github.io/page-2/">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Selamat+Datang+Di+Github+YuriNeko+🤗"
+            alt="YuriNeko"
+        />
+    </a>
+</p>
+ 
+ 
 <p align="center">
 
 - 👼 My name is °Hashiba••Kyouka°
