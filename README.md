@@ -6,7 +6,7 @@
 </p>
 <img src="https://c.tenor.com/7pvsrmazRWcAAAAi/neko-mafumafu.gif" />
 </p>
- 
+ <p align="center">
  
 <p align="center">
     <a href="https://yuri-neko.github.io/page-2/">
