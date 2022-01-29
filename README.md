@@ -47,6 +47,27 @@
 ![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
+ 
+ ##### Some of Technology that i have worked with
+
+![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+
+![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
+
+<details open>
+<summary><b>Cute visitor count</b></summary>
+<br>
+<a href="https://t.me/DIPESH_XD"><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34" /></a>
+</details>
 
 
 
