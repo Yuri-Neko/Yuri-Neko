@@ -6,7 +6,7 @@
 </p>
 <img src="https://c.tenor.com/7pvsrmazRWcAAAAi/neko-mafumafu.gif" />
 </p>
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Yuri-Neko.Yuri-Neko??style=for-the-badge&logo=appveyor"></a><br>
+
   <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Kyouka&description=Hai,%20saya%20Kyouka%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ruka.nime7&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Aku suka Anime&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
@@ -81,6 +81,7 @@
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Yuri-Neko.Yuri-Neko??style=for-the-badge&logo=appveyor"></a><br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
