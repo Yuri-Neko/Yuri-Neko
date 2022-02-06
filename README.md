@@ -31,6 +31,7 @@
 </p>
 
 ------
+###Donate  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
