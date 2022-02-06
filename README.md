@@ -87,7 +87,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 
 <details open>
-<summary><b>Total Pengunjung Profile</b></summary>
+<summary><b>←Total Pengunjung Profile ↓</b></summary>
 <br>
 <a href="https://instagram.com/ruka.nime7 "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
 </details>
