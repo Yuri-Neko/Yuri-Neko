@@ -5,7 +5,7 @@
   <p align="center">
     <a href="https://yuri-neko.github.io/">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang ; Di ; Github ; YuriNeko+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+YuriNeko+🤗"
             alt="YuriNeko"
         />
     </a>
