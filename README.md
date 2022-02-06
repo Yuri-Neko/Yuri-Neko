@@ -33,7 +33,7 @@
 ------
  ### ```Donate```  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 <a href="https://saweria.co/NekoYuri"> <h1 align="center">Saweria<
-<a href="https://trakteer.id/nekopoi-nephi-phelia-yfkfp"/><h1 align="center">Trakteer<
+<a href="https://trakteer.id/nekopoi-nephi-phelia-yfkfp"/> ###```Trakteer```
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
 <a href="https://instagram.com/ruka.nime7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
