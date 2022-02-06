@@ -43,11 +43,11 @@
 
 ### Github Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="Yuri-Neko" /></p>
+<a href="https://github.com/Yuri-Neko"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="Yuri-Neko" /></p>
 
-![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
+<a href="https://github.com/Yuri-Neko">![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
+<a href="https://github.com/Yuri-Neko">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
   
   ### ⚙ &nbsp;GitHub Analytics
 
