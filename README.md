@@ -12,7 +12,7 @@
 </p>
 <a href="https://github.com/Yuri-Neko"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Kyouka%20Hashiba&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20:).%20Aku%20Suka%20Nonton%20Anime&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ruka.nime7&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Kyouka%20Hashiba&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20:).%20Aku%20Suka%20Nonton%20Anime&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Aku Sangat suka Menonton Anime:) &&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
  <p align="center">
@@ -36,7 +36,7 @@
 <a href="https://trakteer.id/nekopoi-nephi-phelia-yfkfp"/> ```Trakteer```
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/ruka.nime7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://instagram.com/admin_kyouka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6283825121214"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
@@ -89,7 +89,7 @@
 <details open>
 <summary><b>←Total Pengunjung Profile ↓</b></summary>
 <br>
-<a href="https://instagram.com/ruka.nime7 "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
+<a href="https://instagram.com/admin_kyouka "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
 </details>
 
 
