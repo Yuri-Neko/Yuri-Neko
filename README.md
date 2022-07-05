@@ -33,7 +33,7 @@
 ------
  ### ```Donate```  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 <a href="https://saweria.co/YuriNeko"> ```Saweria```
-<a href="https://trakteer.id/YuriNeko"/> ```Trakteer```
+<a href="https://trakteer.id/Yuri-Neko"/> ```Trakteer```
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
 <a href="https://instagram.com/admin_kyouka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
