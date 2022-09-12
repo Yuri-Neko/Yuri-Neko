@@ -1,1 +1,16 @@
--
+import fetch from 'node-fetch'
+let handler = async (m, { conn, text }) => {
+    let fdoc = {quoted:{key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: wm}}}}
+    let f = await fetch(`https://meme-api.herokuapp.com/gimme/vagina`)
+    let x = await f.json()
+    //conn.sendButton(m.chat, `Source : ${x.url}\nUpload : ${x.images[0].uploaded_at}`, wm, x.url, [['NEXT', '/kitagawamarin']], m) 
+    conn.sendHydrated(m.chat, `Title : ${x.title}\nAuthor : ${x.author}`, wm, x.url, x.postLink, 'SOURCE', null, null, [
+    ['Next', '.nsfw']
+    ], m, fdoc)  
+}
+
+  handler.command = /^(nsfw)$/i
+  handler.tags = ['main','nsfw']
+  handler.help = ['nsfw']
+  handler.limit = 5
+  export default handler
