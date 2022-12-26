@@ -1,25 +1,21 @@
-let q = arg.toLowerCase().replace('search ', ''),
-							{ result } = await fetch(
-								'https://api.itsrose.my.id/dewasa/nekopoi/search?query=' + q
-							).then((a) => a.json()),
-							listSections = [],
-							tmp = [...result].map((v) => {
-								listSections.push({
-									title: v.title,
-									rows: [
-										{
-											title: '- Detail',
-											rowId: '!nekopoi detail ' + v.id,
-											description: `*${v.title}* (${v.id}) - ${v.date}`,
-										},
-									],
-								});
-							});
-						const listMessage = {
-							text: 'Query : *' + q + '*\n',
-							footer: 'Nekopoi Search',
-							title: 'Result from nekopoi\n\n',
-							buttonText: 'Choose',
-							sections: listSections,
-						};
-						return await sock.sendMessage(msg.from, listMessage);
+
+let q = 'oyasumi'
+var neko = await Search(q)
+      console.log(neko)
+
+        var result = 'result from ' + q
+
+       // var result = `「 ❗ 」status: 200 result :\n\njudul : ${res.info.judul}\n\nrilis : ${res.info.tanggal_rilis}\n\nsinopsis : ${res.sinopsis}`
+
+        var list = []            
+		var teskd = `List Download Per Episode`
+		for (let i of neko) {
+		list.push({
+		title: i.title, rowId: '#neko_get ' + i.id, description: 'ID: ' + i.id + ' Date: ' + i.date
+		})
+		}
+		var sections = [{title: 'NekoPoi [ Only Devoloper ]',rows:list}]
+
+		const Lm = { text: result, footer: "NekoPoi🐈", buttonText: "Click Here", sections }
+
+		bob.sendMessage(M.chat, Lm, {quoted:msg})
