@@ -1,0 +1,25 @@
+
+const q = "Oyasumi"
+const limit = "10"
+let x = await Search(q,limit)
+
+const teskd = `Query ${q}`
+const listSections = []
+const listMessage = {
+text: teskd,
+footer: 'Nekopoi Search',
+title: " 『 Result from nekopoi 』",
+buttonText: "[♦ HASIL ♦]",
+sections: listSections}
+let teks = [...x].map(v => {
+listSections.push({
+                                                                        title: v.title,
+                                                                        rows: [
+                                                                                {
+                                                                                        title: '- Detail',
+                                                                                        rowId: '!menu',
+                                                                                        description: `${v.title}* (${v.id}) - ${v.date}`,
+                                                                                },
+                                                                        ]
+                                                                })}
+conn.sendMessage(m.chat, listMessage, m)
