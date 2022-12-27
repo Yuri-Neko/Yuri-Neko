@@ -1,21 +1,36 @@
 
-let q = 'oyasumi'
-var neko = await Search(q)
-      console.log(neko)
-
-        var result = 'result from ' + q
-
-       // var result = `「 ❗ 」status: 200 result :\n\njudul : ${res.info.judul}\n\nrilis : ${res.info.tanggal_rilis}\n\nsinopsis : ${res.sinopsis}`
-
-        var list = []            
-		var teskd = `List Download Per Episode`
-		for (let i of neko) {
-		list.push({
-		title: i.title, rowId: '#neko_get ' + i.id, description: 'ID: ' + i.id + ' Date: ' + i.date
-		})
-		}
-		var sections = [{title: 'NekoPoi [ Only Devoloper ]',rows:list}]
-
-		const Lm = { text: result, footer: "NekoPoi🐈", buttonText: "Click Here", sections }
-
-		bob.sendMessage(M.chat, Lm, {quoted:msg})
+let handler = async (m, { conn, args }) => {
+	const a = await detail(args[0]);
+	let teks = `*ID :* ${a.id}\n*Title :* ${a.title}\n\n`;
+	for (let i of a.stream) {
+		teks += `*Stream* : ${i.link}\n`;
+	}
+	await conn.sendFile(m.chat, a.image, "", teks, m);
+	try {
+		let x = [];
+		const teks = "Id: " + a.id + "\nTitle: " + a.title + "\nDate: " + a.date;
+		a.download.map((v) => {
+			let xx = v.links.map((vv) => {
+				return {
+					title: vv.name,
+					rowId: "none",
+					description: vv.link,
+				};
+			});
+			x.push({
+				title: v.type,
+				rows: xx,
+			});
+		});
+		const result = {
+			text: "Links Downloads",
+			footer: wm,
+			title: a.id,
+			buttonText: "Links",
+			sections: x,
+		};
+		await conn.sendMessage(m.chat, result, { quoted: m });
+	} catch (e) {
+		// console.log(e);
+	}
+};
