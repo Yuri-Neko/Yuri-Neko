@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main
+      - name: Checkout master
         uses: actions/checkout@v3
 
       - name: Set up python
@@ -34,7 +34,7 @@ jobs:
         run: |
           git diff
           git config user.name "Yuri-Neko"
-          git config user.email "mimin@api-kyouka.my.id"
+          git config user.email "fjrcyber@gmail.com"
           git add .
           git commit -asm "Kyouka Hoyovers Game stats"
           git push
