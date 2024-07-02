@@ -27,9 +27,12 @@
 
 - 🔭 I am Not programmer
  
-- 😎 I Wibu ( ✧Д✧) YES!!
+- 😎 I Weboo ( ✧Д✧)!!
 </p>
-
+------
+------
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+------
 ------
  ### ```Donate```  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 <a href="https://saweria.co/YuriNeko"> ```Saweria```
