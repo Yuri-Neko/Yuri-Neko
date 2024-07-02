@@ -9,6 +9,9 @@
             alt="YuriNeko"
         />
     </a>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
 </p>
 <a href="https://github.com/Yuri-Neko"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
@@ -54,8 +57,4 @@
 
 <a href="https://github.com/Yuri-Neko">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai" alt="profile summary card" />
-</a>
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </a>
