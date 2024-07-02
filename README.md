@@ -33,15 +33,6 @@
   </a>
 </p>
 
-<p align="center">
- ## ```Profile```
-</p>
-<p align="center">
-- 👼 My name is °Hashiba••Kyouka°
-- 🗣️ I am 15 years old 
-- 🔭 I am Not programmer
-- 😎 I Weboo ( ✧Д✧)!!
-</p>
 
 ------
 
