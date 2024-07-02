@@ -44,10 +44,18 @@
 
 ### Github Stats 
 
-<a href="https://github.com/Yuri-Neko"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="Yuri-Neko" /></p>
+<a href="https://github.com/Yuri-Neko">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="Yuri-Neko" /></p>
+</a>
 
-<a href="https://github.com/Yuri-Neko">![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
+<a href="https://github.com/Yuri-Neko">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical" alt="github card" />
+</a>
 
-<a href="https://github.com/Yuri-Neko">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
+<a href="https://github.com/Yuri-Neko">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai" alt="profile summary card" />
+</a>
 
-![[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
