@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/Yuri-Neko">
-    <img src="https://cardivo.vercel.app/api?name=Kyouka%20Hashiba&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobiku%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" />
+    <img src="https://cardivo.vercel.app/api?name=Takamori%20Ren&description=Hai,%20Aku%20Takamori%20Ren%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobiku%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" />
   </a>
   <a href="https://github.com/Yuri-Neko">
     <img src="https://cardivo.vercel.app/api?name=Aku%20Sangat%20suka%20Menonton%20Anime:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" />
