@@ -40,24 +40,6 @@
 <a href="https://saweria.co/YuriNeko"> ```Saweria```
 <a href="https://trakteer.id/Yuri-Neko"/> ```Trakteer```
 
-## ```FOLLOW ALL SOCIAL MEDIA ME```
-<p align="center">
-  <a href="https://instagram.com/admin_kyouka">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  </a>
-  <a href="https://wa.me/6283825121214">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw">
-    <img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" />
-  </a>
-  <a href="https://tiktok.com/@hiro_0163">
-    <img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" />
-  </a>
-  <a href="https://github.com/Yuri-Neko">
-    <img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Yuri-Neko" />
-  </a>
-</p>
 
 ### Github Stats 
 
