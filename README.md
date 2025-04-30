@@ -2,6 +2,8 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31etnccie4jk2etanwluope5mw4u&count=10" alt="Spotify Recently Played" />
+  </a>
 </p>
 
 <p align="center">
